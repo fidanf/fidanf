@@ -1,4 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fidanf&count_private=true&theme=gotham)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fidanf&count_private=true&theme=gotham&show_icons=true)
+
+---
 
 ### Hi there 👋 I'm Frank
 
